@@ -1,4 +1,4 @@
-CI CD Pipeline POC to deploy Azure Data Factory with few other component using Terraform and Azure Devops
+CI CD Pipeline POC to deploy Azure Data Factory with few other components using Terraform and Azure Devops
 
 Started with basic .tf file to create resource group
 
