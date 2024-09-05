@@ -99,4 +99,26 @@ Create Release
 
 
 Resource group created successfully in Azure
+
+Next I tried with below terraform code to deploy ADF and few storage containers
+
+![image](https://github.com/user-attachments/assets/ef749611-accf-4f72-ac3a-1bc87ddfaa6f)
+
+Then executed pipeline and got expected result
+
+![image](https://github.com/user-attachments/assets/b0192256-2b20-41c1-a8cb-46dd5fa489a2)
+
+![image](https://github.com/user-attachments/assets/317b13a3-84a8-4321-9229-1928cd52c662)
+
+![image](https://github.com/user-attachments/assets/eef515ab-01fc-4e10-9dc2-bf06a93ad931)
+
+And state of Terraform exeuction is captured in the Azure storage container
+
+![image](https://github.com/user-attachments/assets/c65664e7-56b0-4ff1-a600-1d2030978241)
+
+
+
+
+
+
  
